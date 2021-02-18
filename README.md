@@ -1,6 +1,6 @@
 # patriarch
 
-A new Flutter project.
+A timeline of biblical patriarchs.
 
 ## Getting Started
 
