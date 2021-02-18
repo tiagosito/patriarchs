@@ -1,4 +1,4 @@
-# patriarch
+# Patriarch
 
 A timeline of biblical patriarchs.
 
